@@ -1,0 +1,2 @@
+scene1
+contains floor directional light, first person controller
